@@ -3,3 +3,5 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO ))
 echo "$NUMBER"
 echo "This is complete."
 echo "New line test"
+echo "new"
+
